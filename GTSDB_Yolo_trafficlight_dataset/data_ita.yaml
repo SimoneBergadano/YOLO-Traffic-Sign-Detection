@@ -1,0 +1,6 @@
+train: images/train
+val: images/val
+test: images/test
+
+nc: 46
+names: ["limite velocità 20kmh", "limite velocità 30kmh", "limite velocità 50kmh", "limite velocità 60kmh", "limite velocità 70kmh", "limite velocità 80kmh", "Fine restrizione 80kmh", "limite velocità 100kmh", "limite velocità 120kmh", "sorpasso vietato", "sorpasso vietato (Camion)", "dare precedenza al prossimo incrocio", "strada con priorità", "dare precedenza", "stop", "accesso vietato", "vietato (camion)", "accesso vietato", "pericolo generico", "curva sinistra", "curva destra", "curva", "strada sconnessa", "strada scivolosa", "restringimento carreggiata", "lavori in corso", "pericolo", "attraversamento pedonale", "attraversamento scolari", "attraversamento bici", "neve", "animali", "fine restrizione", "obbligo svoltare destra", "obbligo svoltare sinistra", "obbligo proseguire dritti", "procedere dritto o destra", "procedere dritto o a sinistra", "tenere la destra", "tenere la sinistra", "rotatoria", "fine restrizione sorpasso", "fine restrizione sorpasso (camion)", "semaforo verde", "semaforo rosso", "semaforo giallo"]

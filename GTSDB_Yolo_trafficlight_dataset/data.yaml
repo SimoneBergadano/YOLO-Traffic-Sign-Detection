@@ -1,0 +1,6 @@
+train: images/train
+val: images/val
+test: images/test
+
+nc: 46
+names: ["SpeedLimit 20 km/h", "SpeedLimit 30 km/h", "SpeedLimit 50 km/h", "SpeedLimit 60 km/h", "SpeedLimit 70 km/h", "SpeedLimit 80 km/h", "RestrictionEnds 80 km/h", "SpeedLimit 100 km/h", "SpeedLimit 120 km/h", "NoOvertaking", "NoOvertaking (trucks) ", "PriorityAtNextIntersection (danger)", "PriorityRoad", "GiveWay", "Stop", "NoTrafficBothWays", "NoTrucks", "NoEntry", "Danger", "BendLeft (danger)", "BendRight (danger)", "Bend (danger)", "UnevenRoad (danger)", "SlipperyRoad (danger)", "RoadNarrows (danger)", "Construction (danger)", "GeneralDanger", "PedestrianCrossing (danger)", "SchoolCrossing (danger)", "CyclesCrossing (danger)", "Snow (danger)", "Animals (danger)", "RestrictionEnds", "GoRight (mandatory)", "GoLeft (mandatory)", "GoStraight (mandatory)", "GoRightOrStraight (mandatory)", "GoLeftOrStraight (mandatory)", "KeepRight (mandatory)", "KeepLeft (mandatory)", "Roundabout (mandatory)", "RestrictionEnds (overtaking)", "RestrictionEnds (overtaking trucks)", "green trafficlight", "red trafficlight", "yellow trafficlight"]
